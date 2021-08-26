@@ -1,8 +1,8 @@
 ### Hi 👋
 
 - 💬 Be free to ask me about anything [here](https://github.com/lyr-2000/lyr-2000/issues).
-掌握语言： java、go
-用过的语言： kotlin
+- 掌握语言： java、go
+- 用过的语言： kotlin
 
 
 终于有人来看咱了呢qwq
