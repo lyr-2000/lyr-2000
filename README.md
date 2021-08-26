@@ -19,6 +19,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lyr-2000&show_icons=true" width="430px" alt="lyr-2000's github stats" title="lyr-2000's github stats" />
 
 #### 最新项目
-1. 多线程下载工具，欢迎start [多线程下载工具](https://github.com/lyr-2000/go-downloader)
+1. 多线程下载工具，欢迎 star [多线程下载工具](https://github.com/lyr-2000/go-downloader)
+
+
 
 
