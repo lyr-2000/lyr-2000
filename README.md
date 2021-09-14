@@ -5,8 +5,6 @@
 - 用过的语言： kotlin,cpp,js
 
 
-终于有人来看咱了呢qwq
-
 - 联系方式：
   - QQ::1957476540
   - Email::lyr-2000@qq.com
