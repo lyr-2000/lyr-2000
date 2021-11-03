@@ -9,7 +9,7 @@
   - QQ::1957476540
   - Email::lyr-2000@qq.com
 - 编程习惯：
-  - 面向 Google
+  - 面向 Google,baidu
   - 面向 StackOverflow
  
 
