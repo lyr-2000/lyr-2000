@@ -46,7 +46,7 @@
 1. mybatis 生成器插件   [mybatis 代码生成器插件](https://github.com/lyr-2000/mybatis-plugin-util-starter)
 2. 经过大量实战，封装的一些工具类 和通用代码（按照个人的代码习惯写的，勿喷） [通用模块JAVA,适合用于毕设](https://github.com/lyr-2000/common-web-api-starter)
 3. 多线程下载工具，拿来练手的，我没这么用过 [多线程下载工具](https://github.com/lyr-2000/go-downloader)
-4. 利用 github pages 弄的一个静态博客， 求 star  [我的博客](https://github.com/lyr-2000/lyr-2000.github.io)
+4. 个人博客  [我的博客](https://github.com/lyr-2000/lyr-2000.github.io)
 
 
 
