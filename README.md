@@ -26,12 +26,21 @@
 </p>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lyr-2000)
+ 
 
 
 
 ### 个人github统计
-<img src="https://github-readme-stats.vercel.app/api?username=lyr-2000&show_icons=true" width="430px" alt="lyr-2000's github stats" title="lyr-2000's github stats" />
+ 
+|                          GitHub状态                          |                        使用最多的语言                        |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lyr-2000&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyr-2000) |
+
+
+
+
+
+
 
 #### 好用的项目插件
 1. mybatis 生成器插件   [mybatis 代码生成器插件](https://github.com/lyr-2000/mybatis-plugin-util-starter)
