@@ -34,7 +34,7 @@
  
 |                          GitHub状态                          |                        使用最多的语言                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lyr-2000&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyr-2000&hide=javascript,vue,css,scss,html) |
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lyr-2000&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyr-2000&hide=vue,css,scss) |
 
 
 
