@@ -1,4 +1,7 @@
-### Hi 👋
+###  主页访问量
+
+![主页访问量](https://count.getloli.com/get/@lyr-2000.github.readme)
+
 
 - 💬 Be free to ask me about anything [here](https://github.com/lyr-2000/lyr-2000/issues).
 - 掌握语言： java、go
