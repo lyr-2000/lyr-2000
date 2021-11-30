@@ -26,6 +26,7 @@
 </p>
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lyr-2000)
 
 
 
