@@ -5,7 +5,6 @@
 
 - 💬 Be free to ask me about anything [here](https://github.com/lyr-2000/lyr-2000/issues).
 - 掌握语言： java、go
-- 用过的语言： kotlin,cpp,js
 
 
 - 联系方式：
@@ -14,7 +13,6 @@
 - 编程习惯：
   - 面向 Google,baidu
   - 面向 StackOverflow
- 
 
 
 ###  🔗常逛的网站
@@ -24,7 +22,6 @@
 <a target="_blank" url="https://github.com/"><img src="https://img.shields.io/badge/GitHub-程序员交友平台-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ffffff"/></a>
 <a target="_blank" url="https://www.zhihu.com/"><img src="https://img.shields.io/badge/知乎-大型装逼社区-0084FF?style=for-the-badge&logo=ZhiHu&logoColor=0084FF&labelColor=ffffff"/></a>
 </p>
-
 
  
 
