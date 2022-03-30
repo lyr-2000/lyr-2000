@@ -13,7 +13,7 @@
 ### 信息统计
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lyr-2000&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyr-2000&hide=css,scss,c,cpp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyr-2000&hide=css,scss,js,kotlin,c,cpp)
 
  
 
