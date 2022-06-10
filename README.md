@@ -4,9 +4,7 @@
 
 
 - 💬 Be free to ask me about anything [here](https://github.com/lyr-2000/lyr-2000/issues).
-- 学生仔
 - 联系方式：
-  - QQ::1957476540
   - Email::lyr-2000@qq.com
 
  
